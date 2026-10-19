@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pdfjs-dist": "^3.11.174",
+    "potrace": "^2.1.8"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "^1.0.11"
+  }
+}
